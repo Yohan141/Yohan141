@@ -28,3 +28,4 @@ Saat ini saya sedang mengikuti program **Studi Independen di Dicoding Indonesia*
 </p>
 
 ✨ *“Setiap baris kode adalah langkah menuju karya yang lebih baik.”*  
+ 
