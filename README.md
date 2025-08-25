@@ -16,7 +16,7 @@ Saat ini saya sedang mengikuti program **Studi Independen di Dicoding Indonesia*
 
 ## 📫 Hubungi Saya
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yohan-bangun-908793253/)  
-- 🐙 [GitHub](https://github.com/YohanBangun)  
+- 🐙 [GitHub](https://github.com/Yohan141)  
 
 ---
 
