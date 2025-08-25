@@ -19,5 +19,12 @@ Saat ini saya sedang mengikuti program **Studi Independen di Dicoding Indonesia*
 - 🐙 [GitHub](https://github.com/Yohan141)  
 
 ---
+## Github Statistic
+<p align="left">
+<a href="https://github.com/Yohan141">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yohan141&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yohan141&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 ✨ *“Setiap baris kode adalah langkah menuju karya yang lebih baik.”*  
